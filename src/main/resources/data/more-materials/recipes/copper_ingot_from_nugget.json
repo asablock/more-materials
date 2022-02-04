@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "more-materials:copper_nugget"
+    }
+  },
+  "result": {
+    "item": "more-materials:copper_ingot"
+  }
+}

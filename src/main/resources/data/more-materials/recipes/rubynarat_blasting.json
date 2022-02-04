@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "more-materials:ruby_ore"
+  },
+  "result": "more-materials:ruby"
+}

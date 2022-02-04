@@ -1,0 +1,40 @@
+{
+  "itemGroup.more-materials.item_group": "More Materials",
+
+  "item.more-materials.netherite_nugget": "Netherite Nugget",
+  "item.more-materials.copper_nugget": "Copper Nugget",
+  "item.more-materials.aluminum_nugget": "Aluminum Nugget",
+  "item.more-materials.tin_nugget": "Tin Nugget",
+
+  "item.more-materials.netherite_dust": "Netherite Dust",
+  "item.more-materials.iron_dust": "Iron Dust",
+  "item.more-materials.gold_dust": "Gold Dust",
+  "item.more-materials.diamond_dust": "Diamond Dust",
+  "item.more-materials.lapis_dust": "Lapis Lazuli Dust",
+  "item.more-materials.emerald_dust": "Emerald Dust",
+  "item.more-materials.coal_dust": "Coal Dust",
+  "item.more-materials.copper_dust": "Copper Dust",
+  "item.more-materials.aluminum_dust": "Aluminum Dust",
+  "item.more-materials.tin_dust": "Tin Dust",
+  "item.more-materials.sapphire_dust": "Sapphire Dust",
+  "item.more-materials.ruby_dust": "Ruby Dust",
+
+  "item.more-materials.copper_ingot": "Copper Ingot",
+  "item.more-materials.aluminum_ingot": "Aluminum Ingot",
+  "item.more-materials.tin_ingot": "Tin Ingot",
+
+  "item.more-materials.ruby": "Ruby Gem",
+  "item.more-materials.sapphire": "Sapphire Gem",
+
+  "block.more-materials.copper_ore": "Copper Ore",
+  "block.more-materials.tin_ore": "Tin Ore",
+  "block.more-materials.aluminum_ore": "Aluminum Ore",
+  "block.more-materials.sapphire_ore": "Sapphire Ore",
+  "block.more-materials.ruby_ore": "Ruby Ore",
+
+  "block.more-materials.copper_block": "Block of Copper",
+  "block.more-materials.tin_block": "Block of Tin",
+  "block.more-materials.aluminum_block": "Block of Aluminum",
+  "block.more-materials.sapphire_block": "Block of Sapphire",
+  "block.more-materials.ruby_block": "Block of Ruby"
+}

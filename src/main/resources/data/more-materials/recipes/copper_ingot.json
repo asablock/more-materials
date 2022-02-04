@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "more-materials:copper_ore"
+  },
+  "result": "more-materials:copper_ingot"
+}

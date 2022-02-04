@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "more-materials:sapphire_ore"
+  },
+  "result": "more-materials:sapphire"
+}

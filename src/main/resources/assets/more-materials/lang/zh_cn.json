@@ -1,0 +1,40 @@
+{
+  "itemGroup.more-materials.item_group": "更多材料",
+
+  "item.more-materials.netherite_nugget": "下界合金粒",
+  "item.more-materials.copper_nugget": "铜粒",
+  "item.more-materials.aluminum_nugget": "铝粒",
+  "item.more-materials.tin_nugget": "锡粒",
+
+  "item.more-materials.netherite_dust": "下界合金粉",
+  "item.more-materials.iron_dust": "铁粉",
+  "item.more-materials.gold_dust": "金粉",
+  "item.more-materials.diamond_dust": "钻石粉",
+  "item.more-materials.lapis_dust": "青金石粉",
+  "item.more-materials.emerald_dust": "绿宝石粉",
+  "item.more-materials.coal_dust": "煤炭粉",
+  "item.more-materials.copper_dust": "铜粉",
+  "item.more-materials.aluminum_dust": "铝粉",
+  "item.more-materials.tin_dust": "锡粉",
+  "item.more-materials.sapphire_dust": "蓝宝石粉",
+  "item.more-materials.ruby_dust": "红宝石粉",
+
+  "item.more-materials.copper_ingot": "铜锭",
+  "item.more-materials.aluminum_ingot": "铝锭",
+  "item.more-materials.tin_ingot": "锡锭",
+
+  "item.more-materials.ruby": "红宝石",
+  "item.more-materials.sapphire": "蓝宝石",
+
+  "block.more-materials.copper_ore": "铜矿石",
+  "block.more-materials.tin_ore": "锡矿石",
+  "block.more-materials.aluminum_ore": "铝矿石",
+  "block.more-materials.sapphire_ore": "蓝宝石矿石",
+  "block.more-materials.ruby_ore": "红宝石矿石",
+
+  "block.more-materials.copper_block": "铜块",
+  "block.more-materials.tin_block": "锡块",
+  "block.more-materials.aluminum_block": "铝块",
+  "block.more-materials.sapphire_block": "蓝宝石块",
+  "block.more-materials.ruby_block": "红宝石块"
+}

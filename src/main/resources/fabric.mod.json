@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "more-materials",
+  "version": "${version}",
+
+  "name": "More Materials",
+  "description": "This mod can add more materials to Minecraft.",
+  "authors": [
+    "asablock"
+  ],
+  "contact": {
+    "homepage": "Sorry, no",
+    "sources": "Sorry, no"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/more-materials/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.asablock.MoreMaterialsMod"
+    ]
+  },
+  "mixins": [
+    "more-materials.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.16.5",
+    "java": ">=8"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

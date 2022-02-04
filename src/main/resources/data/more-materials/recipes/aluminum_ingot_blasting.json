@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "more-materials:aluminum_ore"
+  },
+  "result": "more-materials:aluminum_ingot"
+}
